@@ -1,0 +1,18 @@
+.container {
+    display: grid;
+    grid-template-columns: 150px 150px 150px 150px;
+    grid-template-rows:150px 150px 150px 150px ;
+    column-gap: 70px;
+    row-gap: 10px; 
+    border: 10px;
+  }
+main div{
+    background-color: aqua;
+    color: blueviolet;
+
+}
+
+.grid-item{
+    background-color: aqua;
+    
+}
